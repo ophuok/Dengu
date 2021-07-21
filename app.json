@@ -6,7 +6,7 @@
     "spambot",
     "telegram",
     "userbot"
-  ],
+    },
     "env": {
       },
       "API_ID": {
