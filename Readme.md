@@ -1,7 +1,7 @@
 <h2 align="center"><b>Contact Me from<a href="https://telegram.dog/Xyz_Bye"> here</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ophuok6/Dengu"><img src="https://telegra.ph/file/84bc0012379b227b271f1.jpg" alt="Dengu" width=400px></a>
+   <a href="https://github.com/ophuok/Dengu"><img src="https://telegra.ph/file/84bc0012379b227b271f1.jpg" alt="Dengu" width=400px></a>
    <br>
    <br>
 </p>
