@@ -3,8 +3,8 @@
   "description": "Aɴ Aᴅᴠᴀɴᴄᴇᴅ Tᴇʟᴇᴛʜᴏɴ Usᴇʀʙᴏᴛ , Usᴇᴅ Fᴏʀ Sᴘᴀᴍᴍɪɴɢ & Aʟʟᴏᴡs Yᴏᴜ Tᴏ ᴜsᴇ Mᴜʟᴛɪ Cʟɪᴇɴᴛs.. Isᴋᴇ Aᴀɢᴇ Aʙ ᴍᴀɪ ᴋʏᴀ ʜɪ ʙᴀᴛᴀᴜ ಠ_ಠ.",
   "logo": "https://telegra.ph/file/1092d3d11af929b130747.jpg",
   "keywords": {
-    "spambot",
-    "telegram",
+    "spambot": "",
+    "telegram": "",
     "userbot"
     },
     "env": {
@@ -70,7 +70,7 @@
         "required": true
       },
       "SUDO": {
-        "description": "Fɪʟʟ Tʜᴇ ID's ғʀᴏᴍ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛʀᴏʟ ʏᴏᴜʀ ᴜsᴇʀʙᴏᴛ .. ʏᴏᴜ ᴄᴀɴ ғɪʟʟ ᴍᴜʟᴛɪ ɪᴅ's ...,
+        "description": "Fɪʟʟ Tʜᴇ ID's ғʀᴏᴍ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛʀᴏʟ ʏᴏᴜʀ ᴜsᴇʀʙᴏᴛ .. ʏᴏᴜ ᴄᴀɴ ғɪʟʟ ᴍᴜʟᴛɪ ɪᴅ's ...",
         "value": "",
         "required": true
       }
